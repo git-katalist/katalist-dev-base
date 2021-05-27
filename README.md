@@ -9,7 +9,7 @@ based on jigsawye repository found on :[next.js examples with mdx-remote](https:
 ```bash
 git clone git@github.com:git-katalist/katalist-dev-base.git
 # then
-cd into katalist-dev-base
+`cd` into katalist-dev-base
 # then
 `npm install` to install all dependencies
 ```
